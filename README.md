@@ -34,4 +34,4 @@ For this datebase, i have answered more than 60 queries from all of the tables i
 ## Database Schema
 The schema for this database is visualized below:
 
-![alt text](schema.jpg)
+![alt text](schema.png)
